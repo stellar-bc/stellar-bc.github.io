@@ -7,7 +7,7 @@ issuer="GBPDJLJ23JEKXV5VVDD3FVNPW5XRRZPK6PCHWRIKM2STZ57423B6IXSQ"
 display_decimals=7
 name="RAYO"
 desc="Official asset of Stellar BC Corp. High-performance digital currency designed for speed and exclusivity. | Activo oficial de Stellar BC Corp. Diseñado para ofrecer velocidad y exclusividad."
-image="https://stellar-bc.github.io/congenial/logoderayostellar.png"
+image="https://stellar-bc.github.io/logoderayostellar.png"
 
 [DOCUMENTATION]
 ORG_NAME="Stellar BC Corp"
