@@ -1,6 +1,14 @@
 # Identidad Maestra de RAYO - Stellar BC Corp
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
+[ORGANIZATION]
+NAME="Stellar BC Corp"
+URL="https://stellarbccorp.carrd.co/"
+LOGO="https://stellar-bc.github.io/congenial/logoderayostellar.png"
+DESCRIPTION="High-performance digital currency designed for speed and exclusivity."
+TWITTER="https://x.com/JEnriquez345r"
+#@JEnriquez345r
+
 [[CURRENCIES]]
 code="RAYO"
 issuer="GBPDJLJ23JEKXV5VVDD3FVNPW5XRRZPK6PCHWRIKM2STZ57423B6IXSQ"
@@ -11,4 +19,4 @@ image="https://stellar-bc.github.io/congenial/logoderayostellar.png"
 
 [DOCUMENTATION]
 ORG_NAME="Stellar BC Corp"
-ORG_URL="https://stellar-bc.github.io/congenial"
+ORG_URL="https://stellarbccorp.carrd.co/"
