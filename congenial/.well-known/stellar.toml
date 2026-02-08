@@ -4,7 +4,7 @@ NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 NAME="Stellar BC Corp"
 URL="https://stellarbccorp.carrd.co/"
 LOGO="https://stellar-bc.github.io/congenial/logoderayostellar.png"
-DESCRIPTION="High-performance digital currency designed for speed and exclusivity."
+DESCRIPTION="Robust infrastructure designed to provide stability and strengthen the ecosystem through a 100% reinvestment policy."
 TWITTER="https://x.com/JEnriquez345r"
 
 [[CURRENCIES]]
@@ -12,10 +12,11 @@ code="RAYO"
 issuer="GBPDJLJ23JEKXV5VVDD3FVNPW5XRRZPK6PCHWRIKM2STZ57423B6IXSQ"
 display_decimals=7
 name="RAYO"
-desc="System focused on capital reinvestment to ensure ecosystem stability. Stellar BC Corp is committed to a perpetual 70% reinvestment policy of all rewards back into the liquidity pool. | Sistema enfocado en la reinversión de capital para asegurar la estabilidad del ecosistema. Stellar BC Corp se compromete a una política perpetua de reinversión del 70% de todas las recompensas en la pool de liquidez.https://stellarbccorp.carrd.co/ 
+desc="infrastructure for system stability. Stellar BC Corp is committed to a 100% reinvestment policy of all rewards back into the liquidity pool to strengthen asset value. | Infraestructura para la estabilidad del sistema. Stellar BC Corp se compromete a una política de reinversión del 100% de todas las recompensas en la pool de liquidez para fortalecer el valor del activo. Website: https://stellarbccorp.carrd.co/"
 image="https://stellar-bc.github.io/congenial/logoderayostellar.png"
 status="live"
 anchor_asset_type="other"
+fixed_number=330000000
 
 [DOCUMENTATION]
 ORG_NAME="Stellar BC Corp"
